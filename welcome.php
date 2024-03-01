@@ -10,7 +10,7 @@
 </head>
 <body>
     <h1> hello welcome </h1>
-    <a href="newindex.php">Logout</a>
+    <a href="logout.php">Logout</a>
    
 </body>
 </html>
